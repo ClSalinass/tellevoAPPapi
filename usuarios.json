@@ -1,0 +1,14 @@
+{
+    "usuario": [
+      {
+        "id": 1,
+        "usu": "cl.salinas@duocuc.cl",
+        "pass": "lol123"
+      },
+      {
+        "id": 2,
+        "usu": "nico.correa@duocuc.cl",
+        "pass": "lol123"
+      }
+    ]
+  }
